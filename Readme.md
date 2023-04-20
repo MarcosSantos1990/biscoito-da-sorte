@@ -19,7 +19,7 @@ desafio de criar um jogo chamado Biscoito da Sorte, no qual o usuário, a partir
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+  <img alt="imagigem do projeto" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
