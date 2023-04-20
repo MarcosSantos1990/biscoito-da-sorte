@@ -1,7 +1,7 @@
 <h1 align="center"> Biscoito da Sorte </h1>
 
 <p align="center">
-desafio de criar um jogo chamado Biscoito da Sorte, no qual o usuário, a partir de um clique ou enter, abre um biscoito com a sua sorte do dia<br/>
+desafio de criar um jogo chamado Biscoito da Sorte, no qual o usuário, a partir de um clique , abre um biscoito com a sua sorte do dia<br/>
 
 </p>
 
