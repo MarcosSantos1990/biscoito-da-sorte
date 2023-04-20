@@ -30,9 +30,15 @@ const cookiePhrases = ["A adversidade é um espelho que reflete o verdadeiro eu.
 
 
 
+//Eventos
 
 openCookie.addEventListener('click', screen2Display)
 newCookie.addEventListener('click', screen1Display)
+document.addEventListener('keydown', function(e){
+  if(e.key == 'Enter')  {
+    screen1Display()
+  }
+})
 
 
 

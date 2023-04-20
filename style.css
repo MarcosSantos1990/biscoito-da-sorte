@@ -84,7 +84,7 @@ main .screen2 {
   gap: 1.7rem;
 }
 
-.screen2 p {
+main .screen2 p {
   animation: scaleMessage 1.5s;
 
   font-family: var(--ff-dancingScript);
